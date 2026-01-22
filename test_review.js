@@ -8,3 +8,4 @@ function calculateTotal(price) {
 }
 
 console.log("Total is " + calculateTotal(100));
+// New change to trigger PR
